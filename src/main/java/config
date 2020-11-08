@@ -1,0 +1,3 @@
+prop.server.url = jdbc:mysql://localhost:3306/produto?useTimezone=true&serverTimezone=UTC
+prop.server.password = 3062451
+prop.server.login = jhonatan
